@@ -32,6 +32,8 @@ How It Works
 
 Simply input the URL or Data you want to convert into a QR code, tweak the settings as you like, and let the node generate a high-quality QR code for you. Once created, the QR code can be integrated into your graph and processed further or saved directly to your gallery.
 
+You will probably want to use this with a ControlNet that can ingest a QR code, like `DionTimmer/controlnet_qrcode` 
+
 Notes
 
     The Fill Color and Background Color fields accept RGB tuples for customization.
